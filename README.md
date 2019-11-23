@@ -41,7 +41,7 @@
 |   5   |   数  |   数  |  数   |  数   |  数   |
 |   6   |   数  |   数  |  数   |  数   |  数   |
 
-markdown支持部分HTML元素：\<kbd> \<b> \<i> \<em> \<sup> \<sub> \<br>
-Markdown 使用反斜杠转义特殊字符  
-*斜体*
+markdown支持部分HTML元素：\<kbd> \<b> \<i> \<em> \<sup> \<sub> \<br>  
+Markdown 使用反斜杠转义特殊字符    
+*斜体*  
 \*不是斜体\*
