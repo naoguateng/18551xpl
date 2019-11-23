@@ -41,4 +41,4 @@
 |   5   |   数  |   数  |  数   |  数   |  数   |
 |   6   |   数  |   数  |  数   |  数   |  数   |
 
-markdown支持部分HTML元素：<kbd> <b> <i> <em> <sup> <sub> <br>
+markdown支持部分HTML元素：\<kbd> \<b> \<i> \<em> \<sup> \<sub> \<br>
