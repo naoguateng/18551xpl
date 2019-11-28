@@ -1,6 +1,6 @@
 [naoguateng](https://github.com/naoguateng)
 
-感觉和html差不多，markdown语言更简单点。下面是学习过程、经历和实践，以及成果展示
+感觉和html差不多，markdown语言更简单点。
 
 # 一级标题
 ## 二级标题
