@@ -53,3 +53,4 @@ markdown支持部分HTML元素：\<kbd> \<b> \<i> \<em> \<sup> \<sub> \<br>
 Markdown 使用反斜杠转义特殊字符    
 *斜体*  
 \*不是斜体\*
+![效果图](https://blob/master/xpl%20-%20Google%20Chrome%202019_11_28%2011_28_57.png)
